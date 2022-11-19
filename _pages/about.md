@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-<font size=5>
+<font size=2>
 | Year | Education |
 | :------ | :------ | 
 | 09.2015-05.2020 | Ph.D. in Civil Engineering, Department of Civil Engineering,<br>University of Bristol, United Kingdom. |
