@@ -21,7 +21,7 @@ Education
 
 Publications
 ======
-* Fu JY, **Ge X***, Li JT, Sun ZG, Wang DS, Experimental investigation of the seismic performance of precast segmental bridge piers reinforced by stainless steel bars. [under review]
+* Fu JY, **Ge X:email:**, Li JT, Sun ZG, Wang DS, Experimental investigation of the seismic performance of precast segmental bridge piers reinforced by stainless steel bars. [under review]
 * **Ge X***, Kashani MM, Sun ZG, Yang YQ, Alexander NA, [Exploring the performance of experimentally benchmarked RC bridge pier models when subjected to sequential seismic shocks](https://linkinghub.elsevier.com/retrieve/pii/S2352012422008955), ***Structures***. 2022, 45:1530-1543.
 * Fu JY, **Ge X***, Li JT, Sun ZG, Wang DS, [Seismic performance of concrete bridge piers reinforced by stainless steel bars: A quasi-static experimental study](https://linkinghub.elsevier.com/retrieve/pii/S0141029622006149), ***Engineering Structures***. 2022, 266:114507.
 * **Ge X**, Alexander NA, Kashani MM*, [Rapid post-earthquake damage assessment of ageing reinforced concrete bridge piers using time-frequency analysis](https://www.tandfonline.com/doi/full/10.1080/15732479.2020.1801769), ***Structure and Infrastructure Engineering***. 2021, 17(9):1228-1244.
