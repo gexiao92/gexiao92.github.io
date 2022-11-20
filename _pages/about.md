@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Ge is now a lecturer at [Hebei University of Technology](https://www.hebut.edu.cn). He obtained his BEng degree in civil engineering from [University of Science and Technology Beijing](https://www.ustb.edu.cn) in 2015. Afterwards, he started my doctoral study under supervision of [Dr. Nicholas Alexander](https://www.researchgate.net/profile/Nicholas-Alexander-4) and [Dr. Mohammad Mehdi Kashani](https://www.researchgate.net/profile/Mohammad-Kashani-7) at [the University of Bristol]. In 2020, he finished his Ph.D. study entitled ["Seismic performance of corroded reinforced concrete bridge piers: A large-scale shaking table study"](https://research-information.bris.ac.uk/files/235172284/Thesis.pdf). His research interests mainly focus on the seismic design of bridges. 
+Dr. Ge is now a lecturer at [Hebei University of Technology](https://www.hebut.edu.cn). He obtained his BEng degree in civil engineering from [University of Science and Technology Beijing](https://www.ustb.edu.cn) in 2015. Afterwards, he started my doctoral study under supervision of [Dr. Nicholas Alexander](https://www.researchgate.net/profile/Nicholas-Alexander-4) and [Dr. Mohammad Mehdi Kashani](https://www.researchgate.net/profile/Mohammad-Kashani-7) at [the University of Bristol]([https://www.researchgate.net/profile/Mohammad-Kashani-7](https://www.bristol.ac.uk). In 2020, he finished his Ph.D. study entitled ["Seismic performance of corroded reinforced concrete bridge piers: A large-scale shaking table study"](https://research-information.bris.ac.uk/files/235172284/Thesis.pdf). His research interests mainly focus on the seismic design of bridges. 
 
 Education
 ======
